@@ -308,9 +308,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   margin-inline: 4px;
 }
 
+/* margin block was 36px before */
 .artist {
   opacity: 0.6;
-  margin-block-end: 36px;
+  margin-block-end: 72px;
 }
 
 .seek-control { margin-block-end: 20px; }
