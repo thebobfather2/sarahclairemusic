@@ -9,8 +9,17 @@
 const musicData = [
   {
     backgroundImage: "./assets/images/poster-1.jpg",
-    posterUrl: "./assets/images/poster-1.jpg",
+    posterUrl: "./assets/images/twohearts.jpg",
     title: "RIDE",
+    album: "Two Hearts",
+    year: 2017,
+    artist: "Sarah Claire",
+    musicPath: "./assets/music/ride.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster-1.jpg",
+    posterUrl: "./assets/images/nite.jpg",
+    title: "NITE",
     album: "Single",
     year: 2017,
     artist: "Sarah Claire",
