@@ -17,13 +17,31 @@ const musicData = [
     musicPath: "./assets/music/ride.mp3",
   },
   {
-    backgroundImage: "./assets/images/poster-1.jpg",
+    backgroundImage: "./assets/images/poster.jpg",
     posterUrl: "./assets/images/nite.jpg",
     title: "NITE",
-    album: "Single",
+    album: "Two Hearts",
     year: 2017,
     artist: "Sarah Claire",
     musicPath: "./assets/music/nite.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster.jpg",
+    posterUrl: "./assets/images/nite.jpg",
+    title: "NITE",
+    album: "Two Hearts",
+    year: 2017,
+    artist: "Sarah Claire",
+    musicPath: "./assets/music/nite.mp3",
+  },
+  {
+    backgroundImage: "./assets/images/poster.jpg",
+    posterUrl: "./assets/images/drwn.jpg",
+    title: "DRWN",
+    album: "Two Hearts",
+    year: 2017,
+    artist: "Sarah Claire",
+    musicPath: "./assets/music/drwn.mp3",
   },
 ];
 
