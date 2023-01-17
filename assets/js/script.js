@@ -14,7 +14,7 @@ const musicData = [
     album: "Two Hearts",
     year: 2017,
     artist: "Sarah Claire",
-    musicPath: "./assets/music/RIDE.mp3",
+    musicPath: "./assets/music/ride.mp3",
   },
   {
     backgroundImage: "./assets/images/poster-1.jpg",
@@ -23,7 +23,7 @@ const musicData = [
     album: "Single",
     year: 2017,
     artist: "Sarah Claire",
-    musicPath: "./assets/music/NITE.mp3",
+    musicPath: "./assets/music/nite.mp3",
   },
 ];
 
