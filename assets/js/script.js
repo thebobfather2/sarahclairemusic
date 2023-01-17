@@ -27,12 +27,12 @@ const musicData = [
   },
   {
     backgroundImage: "./assets/images/poster.jpg",
-    posterUrl: "./assets/images/nite.jpg",
-    title: "NITE",
+    posterUrl: "./assets/images/twohearts.jpg",
+    title: "LVLY",
     album: "Two Hearts",
     year: 2017,
     artist: "Sarah Claire",
-    musicPath: "./assets/music/nite.mp3",
+    musicPath: "./assets/music/lvly.mp3",
   },
   {
     backgroundImage: "./assets/images/poster.jpg",
