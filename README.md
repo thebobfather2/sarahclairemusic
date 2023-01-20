@@ -9,7 +9,7 @@
   <br />
   <br />
 
-  <h2 align="center">Web Music Player</h2>
+  <h2 align="center">Sarah Claire Music</h2>
 
   A fully responsive web music player using vanilla javascript, <br />Responsive for all devices, build using html, css, and javascript.
 
@@ -19,7 +19,7 @@
 
 <br />
 
-### Screeshots
+### Screenshots
 
 ![sarahclairemusic](https://user-images.githubusercontent.com/107475188/213628557-59bc9644-61dc-4219-b2a8-e6475f0aa11c.JPG)
 
@@ -47,7 +47,7 @@ git clone https://github.com/codewithsadee/music-player.git
 
 ### Contact
 
-If you want to contact with me you can reach me at [Twitter](https://www.twitter.com/codewithsadee).
+Original repo creator: [Twitter](https://www.twitter.com/codewithsadee).
 
 ### License
 
