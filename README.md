@@ -19,9 +19,9 @@
 
 <br />
 
-### Demo Screeshots
+### Screeshots
 
-![Music Player Desktop Demo](./readme-images/desktop.png "Desktop Demo")
+![sarahclairemusic](https://user-images.githubusercontent.com/107475188/213628557-59bc9644-61dc-4219-b2a8-e6475f0aa11c.JPG)
 
 ### Prerequisites
 
