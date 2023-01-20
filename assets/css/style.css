@@ -14,6 +14,12 @@
   #CUSTOM PROPERTY
 \*-----------------------------------*/
 
+.navbar {
+  display: flex;
+  flex-direction: row;
+  margin: 10px;
+  color: antiquewhite;
+}
 :root {
 
   /**
@@ -498,6 +504,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
 
   .player .container { max-width: 540px; }
 
+  .navbar {
+    display: flex !important;
+    flex-direction: row !important;
+  }
 }
 
 
@@ -525,7 +535,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
 
   }
 
-
+  .navbar {
+    display: flex !important;
+    flex-direction: row !important;
+  }
 
   /**
    * RESET
@@ -680,5 +693,10 @@ body:hover::-webkit-scrollbar-thumb { background-color: var(--surface-variant); 
   }
 
   .music-list { gap: 28px; }
+
+  .navbar {
+    display: flex !important;
+    flex-direction: row !important;
+  }
 
 }
